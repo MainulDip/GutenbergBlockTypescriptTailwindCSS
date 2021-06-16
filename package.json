@@ -1,8 +1,8 @@
 {
   "name": "typescript-gutenberg",
   "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
+  "description": "Typescript and Tailwind CSS Implementation With Custom Webpack Config",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "wp-scripts start",
